@@ -1,46 +1,109 @@
-<h1 align="center">Olá! 👋 Meu nome é Wanderson Saraiva Torres</h1>
-<h3 align="center">Sou estudante de programação e atualmente trabalho em TI em um hospital. Trabalho em vários projetos para aprender diferentes idiomas e entender como eles funcionam; Gosto muito de aprender e estou sempre procurando melhorar e adquirir novos conhecimentos.</h3>
+<div align="center">
+  <h1>Olá! 👋 Eu sou o Wanderson Torres</h1>
+  <h3>Estudante de Programação | Profissional de TI Hospitalar</h3>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wandersonstt&label=Profile%20views&color=0e75b6&style=flat" alt="wandersonstt" /> </p>
+## 📖 Sobre Mim
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wandersonstt" alt="wandersonstt"/></a></p>
+Trabalho na área de TI de um hospital e dedico meu tempo livre estudando desenvolvimento de software. Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos para entender como as coisas funcionam "por baixo do capô".
 
-- 🔭 Atualmente estou trabalhando em **nenhum projeto**
+<div align="center">
+  <p>🚀 Atualmente aprendendo: <b>JavaScript (JS) e C#</b></p>
+  <p>🤝 Procurando ajuda com: <b>JavaScript</b></p>
+  <p>👯 Aberto a colaborações em: <b>Qualquer projeto Open Source para aprender</b></p>
+  <p>💬 Pergunte-me sobre: <b>C#, HTML, JS, CSS</b></p>
+  <p>⚡ Curiosidade: <b>Aprendo rápido e sou muito persistente.</b></p>
+</div>
 
-- 🌱 Atualmente estou aprendendo **JS, C#**
+---
 
-- 👯 Estou procurando colaborar em **qualquer projeto que me ajude a melhorar minhas habilidades**
+## 🛠️ Stack Tecnológico
 
-- 🤝 Estou procurando ajuda com **JavaScript**
+Aqui estão as linguagens e ferramentas que utilizo nos meus estudos e projetos.
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://portfolio-wanderson.vercel.app/](https://portfolio-wanderson.vercel.app/)-
-
-💬 Pergunte-me sobre **C#, HTML, JS, CSS**
-
-- 📫 Como entrar em contato comigo **wanderson_st@hotmail.com.br**
-
-- 📄 Saiba mais sobre minhas experiências [https://portfolio-wanderson.vercel.app/](https://portfolio-wanderson.vercel.app/)-
-
-⚡ Curiosidade **Aprendo rápido e sou muito persistente.**### Posta
-
-gens de blogs
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://dev.to/wandersonstt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="wandersonstt" height="30" width="40" /></a>
-<a href="https://codesandbox.com/wandersonstt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="wandersonstt" height="30" width="40" /></a>
+<p align="center">
+  <!-- C# -->
+  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50" style="margin: 5px;"/></a>
+  <!-- .NET -->
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="50" height="50" style="margin: 5px;"/></a>
+  <!-- HTML5 -->
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="margin: 5px;"/></a>
+  <!-- CSS3 -->
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" style="margin: 5px;"/></a>
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin: 5px;"/></a>
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" style="margin: 5px;"/></a>
+  <!-- Node.js -->
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" style="margin: 5px;"/></a>
+  <!-- PHP -->
+  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50" style="margin: 5px;"/></a>
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin: 5px;"/></a>
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" style="margin: 5px;"/></a>
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" style="margin: 5px;"/></a>
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" style="margin: 5px;"/></a>
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" style="margin: 5px;"/></a>
 </p>
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="esquerda"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" largura="40" altura="40"/> </um> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" largura="40" altura="40"/> </um> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" largura="40" altura="40"/> </um> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" largura="40" altura="40"/> </um> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" largura="40" altura="40"/> </um> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" largura="40" altura="40"/> </um> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" largura="40" altura="40"/> </um> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" largura="40" altura="40"/> </um> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" largura="40" altura="40"/> </um> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" largura="40"altura="40"/> </um> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" largura="40" altura="40"/> </um> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" largura="40" altura="40"/> </um> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" largura="40" altura="40"/> </um> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/wandersonstt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/wandersonstt" /></a></p><br><br>
+## 📊 Dashboard do GitHub
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wandersonstt&show_icons=true&locale=en&layout=compact" alt="wandersonstt" /></p>
+<div align="center">
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=wandersonstt&label=Profile%20views&color=0e75b6&style=flat" alt="Views Counter" />
+</div>
+<br>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=wandersonstt&show_icons=true&locale=en" alt="wandersonstt" /></p>
+<div align="center">
+  <!-- Top Languages -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wandersonstt&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <!-- GitHub Stats -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wandersonstt&show_icons=true&locale=en" alt="GitHub Stats" />
+</div>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wandersonstt&" alt="wandersonstt" /></p>
+<div align="center">
+  <!-- Streak Stats -->
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wandersonstt&" alt="Streak Stats" />
+</div>
+
+---
+
+## 🌐 Conecte-se Comigo
+
+<div align="center">
+  <!-- Portfolio -->
+  <a href="https://portfolio-wanderson.vercel.app/" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/wandersonsaraivatorres/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <!-- Email -->
+  <a href="mailto:wanderson_st@hotmail.com.br" target="blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <!-- Dev.to -->
+  <a href="https://dev.to/wandersonstt" target="blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+</div>
+
+---
+
+## ☕ Apoie meu Trabalho
+
+Se você gosta do que eu faço, considere me pagar um café!
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/wandersonstt">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" style="border-radius: 5px;"/>
+  </a>
+</p>
