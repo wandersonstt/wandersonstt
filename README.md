@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Meu nome é Wanderson Saraiva Torres</h1><
+<h1 align="center">Olá! 👋 Meu nome é Wanderson Saraiva Torres</h1>
 <h3 align="center">Sou estudante de programação e atualmente trabalho em TI em um hospital. Trabalho em vários projetos para aprender diferentes idiomas e entender como eles funcionam; Gosto muito de aprender e estou sempre procurando melhorar e adquirir novos conhecimentos.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wandersonstt&label=Profile%20views&color=0e75b6&style=flat" alt="wandersonstt" /> </p>
