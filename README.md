@@ -58,13 +58,7 @@ Aqui estão as linguagens e ferramentas que utilizo nos meus estudos e projetos.
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=wandersonstt&label=Profile%20views&color=0e75b6&style=flat" alt="Views Counter" />
 </div>
-<br>
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersonstt&layout=compact&show_icons=true&locale=pt-br&v=5#/.svg" alt="Top Linguagens" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wandersonstt&show_icons=true&locale=pt-br&v=5#/.svg" alt="Estatísticas do GitHub" />
-</p>
 
-<br>
 
 <div align="center">
   <!-- Streak Stats -->
