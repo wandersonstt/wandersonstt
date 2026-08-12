@@ -60,12 +60,10 @@ Aqui estão as linguagens e ferramentas que utilizo nos meus estudos e projetos.
 </div>
 <br>
 
-<div align="center">
-  <!-- Top Languages -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wandersonstt&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <!-- GitHub Stats -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wandersonstt&show_icons=true&locale=en" alt="GitHub Stats" />
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersonstt&layout=compact&show_icons=true&locale=pt-br" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wandersonstt&show_icons=true&locale=pt-br" alt="GitHub Stats" />
+</p>
 <br>
 
 <div align="center">
