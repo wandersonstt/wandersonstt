@@ -9,9 +9,8 @@ Trabalho na área de TI de um hospital e dedico meu tempo livre estudando desenv
 
 <div align="center">
   <p>🚀 Atualmente aprendendo: <b>JavaScript (JS) e C#</b></p>
-  <p>🤝 Procurando ajuda com: <b>JavaScript</b></p>
+  <p>🤝 Procurando ajuda com: <b>C#</b></p>
   <p>👯 Aberto a colaborações em: <b>Qualquer projeto Open Source para aprender</b></p>
-  <p>💬 Pergunte-me sobre: <b>C#, HTML, JS, CSS</b></p>
   <p>⚡ Curiosidade: <b>Aprendo rápido e sou muito persistente.</b></p>
 </div>
 
